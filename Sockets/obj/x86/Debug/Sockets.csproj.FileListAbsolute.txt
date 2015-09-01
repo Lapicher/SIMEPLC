@@ -61,3 +61,15 @@ C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\obj\x86\Debug\Sockets
 C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\bin\Debug\Sockets.exe
 C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\bin\Debug\Sockets.pdb
 C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\obj\x86\Debug\Sockets.Automatico.resources
+C:\Users\Nataly-CIDESI\Documents\SIMEPLC\Sockets\bin\Debug\Sockets.exe.config
+C:\Users\Nataly-CIDESI\Documents\SIMEPLC\Sockets\obj\x86\Debug\Sockets.exe
+C:\Users\Nataly-CIDESI\Documents\SIMEPLC\Sockets\obj\x86\Debug\Sockets.pdb
+C:\Users\Nataly-CIDESI\Documents\SIMEPLC\Sockets\bin\Debug\Sockets.exe
+C:\Users\Nataly-CIDESI\Documents\SIMEPLC\Sockets\bin\Debug\Sockets.pdb
+C:\Users\Nataly-CIDESI\Documents\SIMEPLC\Sockets\obj\x86\Debug\Sockets.csprojResolveAssemblyReference.cache
+C:\Users\Nataly-CIDESI\Documents\SIMEPLC\Sockets\obj\x86\Debug\Sockets.Automatico.resources
+C:\Users\Nataly-CIDESI\Documents\SIMEPLC\Sockets\obj\x86\Debug\Sockets.Manual.resources
+C:\Users\Nataly-CIDESI\Documents\SIMEPLC\Sockets\obj\x86\Debug\Sockets.PLC.resources
+C:\Users\Nataly-CIDESI\Documents\SIMEPLC\Sockets\obj\x86\Debug\Sockets.Properties.Resources.resources
+C:\Users\Nataly-CIDESI\Documents\SIMEPLC\Sockets\obj\x86\Debug\Sockets.csproj.GenerateResource.Cache
+C:\Users\Nataly-CIDESI\Documents\SIMEPLC\Sockets\obj\x86\Debug\Sockets.exe.licenses

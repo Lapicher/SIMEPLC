@@ -65,15 +65,9 @@
     <Compile Include="Automatico.Designer.cs">
       <DependentUpon>Automatico.cs</DependentUpon>
     </Compile>
-    <Compile Include="Conexion.cs" />
-    <Compile Include="Estacion.cs" />
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Linea.cs" />
+    <Compile Include="Model\Conexion.cs" />
+    <Compile Include="Model\Estacion.cs" />
+    <Compile Include="Model\Linea.cs" />
     <Compile Include="Manual.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -91,16 +85,13 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Socket.cs">
+    <Compile Include="Model\Socket.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Tags.cs" />
-    <Compile Include="VariablesPLC.cs" />
+    <Compile Include="Model\Tags.cs" />
+    <Compile Include="Model\VariablesPLC.cs" />
     <EmbeddedResource Include="Automatico.resx">
       <DependentUpon>Automatico.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Manual.resx">
       <DependentUpon>Manual.cs</DependentUpon>
