@@ -1,0 +1,63 @@
+C:\Documents and Settings\CIDESI\Mis documentos\Google Drive\Documentos Programacion\C#\Sockets\Sockets\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CIDESI\Mis documentos\Google Drive\Documentos Programacion\C#\Sockets\Sockets\obj\x86\Debug\Sockets.Form1.resources
+C:\Documents and Settings\CIDESI\Mis documentos\Google Drive\Documentos Programacion\C#\Sockets\Sockets\obj\x86\Debug\Sockets.Properties.Resources.resources
+C:\Documents and Settings\CIDESI\Mis documentos\Google Drive\Documentos Programacion\C#\Sockets\Sockets\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\CIDESI\Mis documentos\Google Drive\Documentos Programacion\C#\Sockets\Sockets\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\CIDESI\Mis documentos\Google Drive\Documentos Programacion\C#\Sockets\Sockets\obj\x86\Debug\Sockets.exe.licenses
+C:\Documents and Settings\CIDESI\Mis documentos\Google Drive\Documentos Programacion\C#\Sockets\Sockets\bin\Debug\Sockets.exe.config
+C:\Documents and Settings\CIDESI\Mis documentos\Google Drive\Documentos Programacion\C#\Sockets\Sockets\bin\Debug\Sockets.exe
+C:\Documents and Settings\CIDESI\Mis documentos\Google Drive\Documentos Programacion\C#\Sockets\Sockets\bin\Debug\Sockets.pdb
+C:\Documents and Settings\CIDESI\Mis documentos\Google Drive\Documentos Programacion\C#\Sockets\Sockets\obj\x86\Debug\Sockets.exe
+C:\Documents and Settings\CIDESI\Mis documentos\Google Drive\Documentos Programacion\C#\Sockets\Sockets\obj\x86\Debug\Sockets.pdb
+C:\Users\L0333\Desktop\Sockets\Sockets\bin\Debug\Sockets.exe.config
+C:\Users\L0333\Desktop\Sockets\Sockets\obj\x86\Debug\Sockets.exe
+C:\Users\L0333\Desktop\Sockets\Sockets\obj\x86\Debug\Sockets.pdb
+C:\Users\L0333\Desktop\Sockets\Sockets\obj\x86\Debug\Sockets.csprojResolveAssemblyReference.cache
+C:\Users\L0333\Desktop\Sockets\Sockets\obj\x86\Debug\Sockets.Form1.resources
+C:\Users\L0333\Desktop\Sockets\Sockets\obj\x86\Debug\Sockets.Properties.Resources.resources
+C:\Users\L0333\Desktop\Sockets\Sockets\obj\x86\Debug\Sockets.csproj.GenerateResource.Cache
+C:\Users\L0333\Desktop\Sockets\Sockets\obj\x86\Debug\Sockets.exe.licenses
+C:\Users\L0333\Desktop\Sockets\Sockets\bin\Debug\Sockets.exe
+C:\Users\L0333\Desktop\Sockets\Sockets\bin\Debug\Sockets.pdb
+C:\Users\L0333\Desktop\Sockets\Sockets\obj\x86\Debug\Sockets.Manual.resources
+C:\Users\L0333\Desktop\Sockets\Sockets\obj\x86\Debug\Sockets.PLC.resources
+C:\Users\L0333\Desktop\Sockets 25 ago\Sockets\bin\Debug\Sockets.exe.config
+C:\Users\L0333\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.exe
+C:\Users\L0333\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.pdb
+C:\Users\L0333\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.csprojResolveAssemblyReference.cache
+C:\Users\L0333\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.Form1.resources
+C:\Users\L0333\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.Manual.resources
+C:\Users\L0333\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.PLC.resources
+C:\Users\L0333\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.Properties.Resources.resources
+C:\Users\L0333\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.csproj.GenerateResource.Cache
+C:\Users\L0333\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.exe.licenses
+C:\Users\L0333\Desktop\Sockets 25 ago\Sockets\bin\Debug\Sockets.exe
+C:\Users\L0333\Desktop\Sockets 25 ago\Sockets\bin\Debug\Sockets.pdb
+C:\Users\L0333\Desktop\Sockets 25 ago final\Sockets\bin\Debug\Sockets.exe.config
+C:\Users\L0333\Desktop\Sockets 25 ago final\Sockets\obj\x86\Debug\Sockets.exe
+C:\Users\L0333\Desktop\Sockets 25 ago final\Sockets\obj\x86\Debug\Sockets.pdb
+C:\Users\Nataly-CIDESI\Desktop\Sockets 25 ago\Sockets\bin\Debug\Sockets.exe.config
+C:\Users\Nataly-CIDESI\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.exe
+C:\Users\Nataly-CIDESI\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.pdb
+C:\Users\Nataly-CIDESI\Desktop\Sockets 25 ago\Sockets\bin\Debug\Sockets.exe
+C:\Users\Nataly-CIDESI\Desktop\Sockets 25 ago\Sockets\bin\Debug\Sockets.pdb
+C:\Users\Nataly-CIDESI\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.csprojResolveAssemblyReference.cache
+C:\Users\Nataly-CIDESI\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.Form1.resources
+C:\Users\Nataly-CIDESI\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.Manual.resources
+C:\Users\Nataly-CIDESI\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.PLC.resources
+C:\Users\Nataly-CIDESI\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.Properties.Resources.resources
+C:\Users\Nataly-CIDESI\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.csproj.GenerateResource.Cache
+C:\Users\Nataly-CIDESI\Desktop\Sockets 25 ago\Sockets\obj\x86\Debug\Sockets.exe.licenses
+C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\bin\Debug\Sockets.exe.config
+C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\obj\x86\Debug\Sockets.exe
+C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\obj\x86\Debug\Sockets.pdb
+C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\obj\x86\Debug\Sockets.csprojResolveAssemblyReference.cache
+C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\obj\x86\Debug\Sockets.Form1.resources
+C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\obj\x86\Debug\Sockets.Manual.resources
+C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\obj\x86\Debug\Sockets.PLC.resources
+C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\obj\x86\Debug\Sockets.Properties.Resources.resources
+C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\obj\x86\Debug\Sockets.csproj.GenerateResource.Cache
+C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\obj\x86\Debug\Sockets.exe.licenses
+C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\bin\Debug\Sockets.exe
+C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\bin\Debug\Sockets.pdb
+C:\Users\Nataly-CIDESI\Google Drive\CIDESI\SIMEPLC\Sockets\obj\x86\Debug\Sockets.Automatico.resources
